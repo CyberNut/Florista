@@ -1,0 +1,1 @@
+web: ./build/install/florista-cybernut-ru/bin/florista-cybernut-ru
