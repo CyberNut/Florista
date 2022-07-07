@@ -1,1 +1,1 @@
-web: ./build/install/florista-cybernut-ru/bin/florista-cybernut-ru
+web: ./build/install/ru.cybernut.florista/bin/ru.cybernut.florista
