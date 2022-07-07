@@ -7,8 +7,6 @@ import io.ktor.server.response.*
 import io.ktor.server.routing.*
 import ru.cybernut.models.Flower
 import ru.cybernut.models.flowerStorage
-import java.util.concurrent.Flow
-import kotlin.text.get
 
 fun Route.flowerRouting() {
     route("/flower") {
